@@ -1,0 +1,6 @@
+@uc10_Locatem_HostAddress = http://localhost:5033
+
+GET {{uc10_Locatem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
